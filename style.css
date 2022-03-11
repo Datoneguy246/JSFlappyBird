@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+canvas {
+  display: block;
+}
+
+#canvas{
+  margin: auto;
+  width: min-content;
+  border: black 2px solid;
+}
